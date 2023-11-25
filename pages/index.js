@@ -12,6 +12,7 @@ export default function Home() {
     <div>
       <Head>
         <title>UnSocial Tech</title>
+        <meta name="google-site-verification" content="_RO2jxAuVmRsvkV46PZvmDhEBQe2FaHiMvQIsqZdWTc" />
         <meta name="UnSocial Tech" content="We are best in business" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

@@ -2,10 +2,10 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import animekartImg from '../public/assets/projects/AnimeKart.png';
-import chatappImg from '../public/assets/projects/charlando-web.png'
+import blogusImg from '../public/assets/projects/blogus.png'
 import newsappImg from '../public/assets/projects/NewsForYou.png'
 import videochatImg from '../public/assets/projects/videochat.png'
-import weatherAppImg from '../public/assets/projects/weatherapp.png'
+import Ecom from '../public/assets/projects/Ecom.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -20,17 +20,17 @@ const Projects = () => {
           <ProjectItem
             title='E-commerce website'
             backgroundImg={animekartImg}
-            projectUrl='https://github.com/Shivang-stack/Mini-project-Animekart'
+            projectUrl='https://mini-project-animekart.vercel.app/'
           />
           <ProjectItem
-            title='Chat App'
-            backgroundImg={chatappImg}
-            projectUrl='https://github.com/Shivang-stack/charlando-web'
+            title='Blogus'
+            backgroundImg={blogusImg}
+            projectUrl='https://blogus-delta.vercel.app/'
           />
           <ProjectItem
-            title='News Website'
+            title='News Website -SEO Focused'
             backgroundImg={newsappImg}
-            projectUrl='https://github.com/Shivang-stack/NewsForYou-web'
+            projectUrl='https://nextjs-seo-news-app.vercel.app/'
           />
           <ProjectItem
             title='Video Chat'
@@ -38,9 +38,9 @@ const Projects = () => {
             projectUrl='https://github.com/Shivang-stack/WebrtcApp'
           />
           <ProjectItem
-            title='Weather App'
-            backgroundImg={weatherAppImg}
-            projectUrl='https://github.com/Shivang-stack/weatherapp'
+            title='E-com -SEO Focused'
+            backgroundImg={Ecom}
+            projectUrl='https://nextjs-seo-ecom.vercel.app/'
           />
         </div>
       </div>
