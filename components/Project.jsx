@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
 import animekartImg from '../public/assets/projects/AnimeKart.png';
-import blogusImg from '../public/assets/projects/blogus.png'
+import blogusImg from '../public/assets/projects/Blogus.png'
 import newsappImg from '../public/assets/projects/NewsForYou.png'
 import videochatImg from '../public/assets/projects/videochat.png'
 import Ecom from '../public/assets/projects/Ecom.png'
