@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://unsocial-tech-one.vercel.app
+
+# Sitemaps
+Sitemap: https://unsocial-tech-one.vercel.app/sitemap.xml
